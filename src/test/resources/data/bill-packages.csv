@@ -1,0 +1,4 @@
+billPackageType,maxMinutes,maxSms,price
+S,10,50,5.0
+M,50,100,10.0
+L,500,500,20.0

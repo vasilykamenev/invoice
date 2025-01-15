@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: invoice
+  shell:
+    interactive:
+      enabled: true
+    command:
+      stacktrace:
+        enabled: off
+      script:
+        enabled: off
+      version:
+        enabled: off
